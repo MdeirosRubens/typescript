@@ -1,2 +1,1 @@
-# typescript
-Repósitório para estudo da linguagem typeScript
+ESTE REPÓSITÓRIO É DEDICADO PARA ESTUDOS DA LINGUAGEM TYPESCRIPT.
